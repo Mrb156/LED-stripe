@@ -2,4 +2,4 @@
 //megint egy valtoztatas
 //megegy
 //most tobb commit is lesz
-//ez a masodik ilyen
+//ez a masodik ilye
