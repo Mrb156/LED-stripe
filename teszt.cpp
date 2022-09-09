@@ -2,4 +2,4 @@
 //megint egy valtoztatas
 //megegy
 //most tobb commit is les
-//ez a masodik ilye
+//ez a masodik ily
