@@ -1,5 +1,5 @@
 //teszt hello
 //megint egy valtoztatas
 //megegy
-//most tobb commit is lesz
+//most tobb commit is les
 //ez a masodik ilye
